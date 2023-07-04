@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Asavari Kulkarni!
 
 
-## I'm a Student, Data Science Enthusiast , and a Learner :)
+## I'm a Student, Data Science Enthusiast and a Learner :)
 
 
 - 🌱 I’m currently trying to learn everything 
