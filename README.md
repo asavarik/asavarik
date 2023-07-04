@@ -20,7 +20,7 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asavarikk/ "Connect via LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:asavarikulkarni11@gmail.com/ "Connect via mail")
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asavarikulkarni11@gmail.com/ "Connect via mail")
 <br />
 
 ### Languages and Tools:
